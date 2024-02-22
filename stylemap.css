@@ -1,0 +1,6 @@
+/* Add your custom styles here */
+#map {
+    height: 300px;
+    width: 400px;
+    border: 1px rgb(128, 0, 49) solid;
+}
